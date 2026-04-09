@@ -43,3 +43,12 @@ Blog-style content:
 5. Contact
 
 Support form + store locator
+
+
+Every group should assign:
+	1.	Product Lead / Project Manager
+	2.	UX Designer
+	3.	UI / Visual Designer
+	4.	Frontend Developer (Layout)
+	5.	Frontend Developer (Interaction)
+	6.	Quality Assurance and Debugging 
